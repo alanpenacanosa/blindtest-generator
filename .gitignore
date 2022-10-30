@@ -1,0 +1,24 @@
+# Folders
+node_modules
+build
+dist
+tmp
+
+# IDE
+.idea
+.vscode
+.DS_STORE
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Environment variables files
+.env.*
